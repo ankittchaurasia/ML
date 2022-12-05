@@ -1,1 +1,1 @@
-document.getElementById('hello').innerHTML = "Bye"
+console.log("This page url is "+window.location.href)
